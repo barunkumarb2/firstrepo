@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Welcome to Test Git Repository
+Welcome to Test Git Repository Test project
 </body>
 </html>
