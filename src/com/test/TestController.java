@@ -15,13 +15,13 @@ public class TestController {
 	
 	
 	public TestController(){
-		mLogger.info("Constructor Invoked");
+		mLogger.info("Constructor Invoked Test for Staging Branch");
 	}
 	
 	@RequestMapping(value="introtest",method={RequestMethod.POST,RequestMethod.GET})
 	public String showHomePage(){
 		
-		mLogger.info("Invoked");
+		mLogger.info("Invoked ");
 	
 		
 		return "Success";
