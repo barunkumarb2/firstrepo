@@ -15,7 +15,7 @@ public class TestController {
 	
 	
 	public TestController(){
-		mLogger.info("Constructor Invoked Test for Staging Branch");
+		mLogger.info("Constructor Invoked Test for Staging-issue Branch");
 	}
 	
 	@RequestMapping(value="introtest",method={RequestMethod.POST,RequestMethod.GET})
